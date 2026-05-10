@@ -1,3 +1,9 @@
+<table>
+<tr>
+<td width="250">
+
+<img src="headshot_JechunAn.jpg" width="180"><br>
+
 # Postdoctoral Associate, University of Minnesota, Twin-Cities
 Special Education Program, Dept. of Educational Psychology 
 
