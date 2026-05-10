@@ -9,10 +9,10 @@
 ### Jechun An
 
 Postdoctoral Associate  
-University of Minnesota Twin Cities  
+University of Minnesota
 
 Special Education Program  
-Department of Educational Psychology  
+Dept. of Educational Psychology  
 
 📧 an000070@umn.edu  
 
