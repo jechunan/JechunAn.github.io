@@ -1,3 +1,17 @@
+:root {
+  --bg-color: #fff;
+  --text-color: #2d3748;
+  --text-secondary: #4a5568;
+  --accent-color: #4a74b9;
+  --accent-hover: #3a5c9e;
+  --border-color: #e2e8f0;
+  --shadow-color: rgba(0,0,0,0.05);
+  --animation-offset: 3px;
+  --transition-time: 0.3s;
+}
+
+
+
 <br><br>
 <table>
 <tr>
