@@ -1,23 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Academic Homepage">
-    <meta name="keywords" content="Computer Science, PhD Student, Research, Machine Learning, Robotics">
-    <meta name="author" content="Anonymous">
-    <meta property="og:title" content="Academic Homepage - PhD Student">
-    <meta property="og:description" content="Research in computer science and related fields.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="#">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:creator" content="@anonymous">
-    <title>Academic Homepage</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;500;600&display=swap">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link rel="stylesheet" href="styles.css">
+
+    <title>Je Chun An</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+
+        .container {
+            display: flex;
+            max-width: 1100px;
+            margin: auto;
+        }
+
+        .sidebar {
+            width: 220px;
+            padding-right: 40px;
+        }
+
+        .profile {
+            width: 170px;
+            border-radius: 50%;
+        }
+
+        .content {
+            flex: 1;
+        }
+
+        a {
+            text-decoration: none;
+        }
+    </style>
 </head>
+
+<body>
+
+<div class="container">
+
+    <div class="sidebar">
+
+        <img src="headshot_JechunAn.jpg" class="profile">
+
+        <h2>Je Chun An</h2>
+
+        <p>
+            Postdoctoral Associate<br>
+            University of Minnesota Twin Cities
+        </p>
+
+        <p>
+            <a href="mailto:an000070@umn.edu">Email</a><br>
+            <a href="https://github.com/JechunAn">GitHub</a><br>
+            <a href="#">Google Scholar</a>
+        </p>
+
+    </div>
+
+    <div class="content">
+
+        <h1>Bio</h1>
+
+        <p>
+            My research focuses on integrating literacy assessment into data-informed instructional systems to support teachers working with students who experience significant difficulties in literacy (reading and writing) and language.
+        </p>
+
+        <p>
+            Ultimately, my research goal is to develop equitable and instructionally meaningful approaches that improve literacy outcomes for diverse learners.
+        </p>
+
+    </div>
+
+</div>
+
+</body>
 </html>
+
 
 <br><br>
 <table>
