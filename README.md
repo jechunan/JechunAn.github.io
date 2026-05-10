@@ -6,7 +6,7 @@
 
 <img src="headshot_JechunAn.jpg" width="170"><br><br>
 
-### Jechun An
+Jechun An
 
 Postdoctoral Associate  
 University of Minnesota
@@ -24,7 +24,7 @@ Dept. of Educational Psychology
 
 <td valign="top">
 
-# Bio
+Bio
 
 My research focuses on integrating literacy assessment into data-informed instructional systems to support teachers working with students who experience significant difficulties in literacy (reading and writing) and language. Ultimately, my research goal is to develop equitable and instructionally meaningful approaches that improve literacy outcomes for diverse learners.
 
