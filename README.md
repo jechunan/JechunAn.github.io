@@ -2,9 +2,9 @@
 <table>
 <tr>
 
-<td width="220" valign="top">
+<td width="150" valign="top">
 
-<img src="headshot_JechunAn.jpg" width="170"><br><br>
+<img src="headshot_JechunAn.jpg" width="120"><br><br>
 
 # Jechun An
 
