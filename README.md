@@ -8,6 +8,6 @@ My research focuses on integrating literacy assessment into data-informed instru
 
 <table>
 <tr>
-<td width="200">
+<td width="180">
 
 <img src="headshot_JechunAn.jpg" width="150"><br>
