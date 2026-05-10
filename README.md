@@ -1,7 +1,4 @@
 
-<br><br>
-<table>
-<tr>
 
 ### Jechun An
 <img src="headshot_JechunAn.jpg" width="110"><br><br>
@@ -17,17 +14,10 @@ Dept. of Educational Psychology
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=IKg15xYAAAAJ&view_op=list_works&sortby=pubdate)
 
 
-</td>
-
-<td valign="top">
 
 ### Bio
 
 My research focuses on integrating literacy assessment into data-informed instructional systems to support teachers working with students who experience significant difficulties in literacy (reading and writing) and language. Ultimately, my research goal is to develop equitable and instructionally meaningful approaches that improve literacy outcomes for diverse learners.
 
-</td>
-
-</tr>
-</table>
 
 
