@@ -6,4 +6,3 @@ My research focuses on integrating literacy assessment into data-informed instru
 
 <img src="headshot_JechunAn.jpg" width="220">
 
-avatar: "/images/headshot_JechunAn.jpg"
