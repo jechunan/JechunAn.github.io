@@ -3,12 +3,8 @@
 <table>
 <tr>
 
-<td width="140" valign="top">
-
-<img src="headshot_JechunAn.jpg" width="110"><br><br>
-
 ### Jechun An
-
+<img src="headshot_JechunAn.jpg" width="110"><br><br>
 Postdoctoral Associate  
 University of Minnesota
 
