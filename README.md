@@ -2,5 +2,4 @@
 Special Education Program, Dept. of Educational Psychology 
 
 # Bio
-description              : &description "Jechun's research focuses on integrating literacy assessment into data-informed instructional systems to support teachers working with students who experience significant difficulties in literacy (reading and writing) and language. Ultimately, Jechun's research goal is to develop equitable and instructionally meaningful approaches that improve literacy outcomes for diverse learners."
-
+My research focuses on integrating literacy assessment into data-informed instructional systems to support teachers working with students who experience significant difficulties in literacy (reading and writing) and language. Ultimately, Jechun's research goal is to develop equitable and instructionally meaningful approaches that improve literacy outcomes for diverse learners.
