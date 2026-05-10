@@ -1,4 +1,4 @@
-# Postdoctoral Associate, Unviersity of Minnesota, Twin-Cities
+# Postdoctoral Associate, University of Minnesota, Twin-Cities
 Special Education Program, Dept. of Educational Psychology 
 
 # Bio
