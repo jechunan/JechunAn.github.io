@@ -17,6 +17,8 @@ Dept. of Educational Psychology
 📧 an000070@umn.edu  
 
 [GitHub](https://github.com/JechunAn)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=IKg15xYAAAAJ&view_op=list_works&sortby=pubdate)
+
 
 </td>
 
